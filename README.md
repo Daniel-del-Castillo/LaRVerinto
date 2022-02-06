@@ -17,10 +17,25 @@ Una vez accionado el botón de *Jugar*, el usuario se teletransporta a la escena
 En esta escena final se despliega una pequeño menú para que le usuario pueda volver a la escena inicial del juego y pueda probar en distintos laberintos.
 
 ## Hitos de programación
+A continuación se muestra en la tabla los hitos de programación que se han seguido y conseguido en el presente proyecto:
+|  Hito                                         |                  Descripción                                                                                          |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Funcionamiento en Realidad virtual            | Implementación de un entorno en realidad virtual para Android (.apk)                                                  |
+| Generación de laberinto pseudoaleatorio       | Implementación de un camino y paredes, que simulen un laberinto, de manera pseudoaleatoria                            |
+| Movimiento de usuario mediante teletransporte | Implementación de un objeto que simulue e interactue con el usuario y le permita teletransportarse de un lugar a otro |
+| Marcas orientativas                           | Implementación de marcas orientativas en las paredes (cruz roja) y en el suelo (brújula que indica sur y norte)       |
+| Escenario inicial                             | Implementación de un escenario inicial en el que el usuario elige cuando comenzar el juego y se le da a conocer los controles del mismo                             |
+| Concideraciones de experiencia usuario        | En la implementación del diseño se deben tener en cuenta las distintas consideraciones UX explicadas en la asignatura |
+| Escenario final                               | Implementación de un escenario final donde el usuario se encuentre ganador y un menú le permita volver al escenario inicial                                         |
+
 ## Aspectos a destacar de la aplicación
 Especificar si se han incluido sensores de los que se han trabajado en interfaces multimodales.
 ## Gif animado de ejecución
+
 ## Organización del proyecto
+A continuación se describen los perfiles de los miembros y sus responsabilidades:
+
+* Con el perfil
 ## Experiencia en Realidad Virtual
 A continuación se listan los distintos aspectos que se han tenido en cuenta en la *APK* y como se han solventado en la misma:
 * Papel del suelo. Para evitar que el usuario se mareé debido a la pérdida de percepción de la realidad con la relación cielo-suelo, ambos escenarios se encuentran abiertos y el usuario podrá mirar el cielo mientras se desplaza.
