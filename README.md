@@ -1,11 +1,11 @@
-# LaRVerinto
+# **LaRVerinto**
 Proyecto desarrollado para la asignatura Interfaces Inteligentes en la Universidad de La Laguna. Curso 2021-2022.
 ## Autores
 * Daniel del Castillo de la Rosa
 * Javier Correa Marichal
 * Alejandro Peraza González
 * Nerea Rodríguez Hernández
-## Cuestiones importantes para el uso.
+## **Cuestiones importantes para el uso.**
 Una vez iniciada la aplicación el usuario se encontrará en la escena inicial del juego. Esta escena le servirá para identificar los controles del juego:
 
 ![texto_alternativo](./img/controles.png)
@@ -16,7 +16,7 @@ Una vez accionado el botón de *Jugar*, el usuario se teletransporta a la escena
 
 En esta escena final se despliega una pequeño menú para que le usuario pueda volver a la escena inicial del juego y pueda probar en distintos laberintos.
 
-## Hitos de programación
+## **Hitos de programación.**
 A continuación se muestra en la tabla los hitos de programación que se han seguido y conseguido en el presente proyecto:
 |  Hito                                         |                  Descripción                                                                                          |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -28,15 +28,16 @@ A continuación se muestra en la tabla los hitos de programación que se han seg
 | Concideraciones de experiencia usuario        | En la implementación del diseño se deben tener en cuenta las distintas consideraciones UX explicadas en la asignatura |
 | Escenario final                               | Implementación de un escenario final donde el usuario se encuentre ganador y un menú le permita volver al escenario inicial                                         |
 
-## Aspectos a destacar de la aplicación
+## **Aspectos a destacar de la aplicación.**
 Especificar si se han incluido sensores de los que se han trabajado en interfaces multimodales.
-## Gif animado de ejecución
 
-## Organización del proyecto
-A continuación se describen los perfiles de los miembros y sus responsabilidades:
+## **Ejecución de la aplicación.**
+Video demostrativo de la aplicación desarrollada en el presente proyecto:
 
-* Con el perfil
-## Experiencia en Realidad Virtual
+## **Organización del proyecto.**
+A lo largo del proyecto se han desarrollado distintas reuniones a través de la plataforma de *Discord*, donde nos hemos reunido todos los componentes del equipo de trabajo. 
+
+## **Experiencia en Realidad Virtual**
 A continuación se listan los distintos aspectos que se han tenido en cuenta en la *APK* y como se han solventado en la misma:
 * Papel del suelo. Para evitar que el usuario se mareé debido a la pérdida de percepción de la realidad con la relación cielo-suelo, ambos escenarios se encuentran abiertos y el usuario podrá mirar el cielo mientras se desplaza.
   
@@ -48,6 +49,6 @@ A continuación se listan los distintos aspectos que se han tenido en cuenta en 
   
 * Guiar al usuario con objetos. El laberito puede ser un escenario donde el usuario se desoriente con facilidad, por lo que se ha permitido que coloque unas marcas rojas en la pared para identificar los caminos por los que ha pasado. Además, puede colocar en el suelo una brújula que señaliza el norte y el sur, con esto el usuario puede determinar su dirección.
   
-* Retícula contextual:
-* Objetos interactivos:
+* Retícula contextual. El usuario sabe con que objetos puede interactuar gracias a la retícula. Una retícula de radio mínimo significa un estado inactivo. Para interactuar con un objeto la retícula dirige su atención al mismo y la retícula aumenta su tamaño.
 
+* Objetos interactivos. No todos los objetos que aparecen en la escena son objetos interactivos, por lo que el usuario los identifica utilizando la retícula contextual anteriormente nombrada.
