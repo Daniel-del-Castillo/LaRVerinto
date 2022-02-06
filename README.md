@@ -29,13 +29,16 @@ A continuación se muestra en la tabla los hitos de programación que se han seg
 | Escenario final                               | Implementación de un escenario final donde el usuario se encuentre ganador y un menú le permita volver al escenario inicial                                         |
 
 ## **Aspectos a destacar de la aplicación.**
-Especificar si se han incluido sensores de los que se han trabajado en interfaces multimodales.
+
+El principal aspecto importante a destacar de la aplicación y que ha significa una gran parte del tiempo del desarrollo del proyecto es la implementación del movimiento del usuario mediante teletransporte. [redactar mas]
+
+Uno de los principales aspectos que destacar de la aplicación y haciendo referencia a lo que se ha trabajado en la asignatura en interfaces multimodales, es el componente Brújula. Este objeto proporciona orientación al usuario indicandole la dirección Norte-Sur.
 
 ## **Ejecución de la aplicación.**
 Video demostrativo de la aplicación desarrollada en el presente proyecto:
 
 ## **Organización del proyecto.**
-A lo largo del proyecto se han desarrollado distintas reuniones a través de la plataforma de *Discord*, donde nos hemos reunido todos los componentes del equipo de trabajo. 
+A lo largo del proyecto se han desarrollado distintas reuniones a través de la plataforma de *Discord*, donde nos hemos reunido todos los componentes del equipo de trabajo. El primer hito a desarrollar consistía en el funcionamiento de una APK en Realidad Aumentada, mientras unos intentaban la implementación en Unity otras buscaban las distintas maneras de solventar los problemas que se iban encontrando. Trans conseguir generar un escenario en una APK en realidad aumentada, el equipo se dividiría en parejas para desarrollar el laberinto pseudoaleatorio y el movimiento mediante teletransporte.
 
 ## **Experiencia en Realidad Virtual**
 A continuación se listan los distintos aspectos que se han tenido en cuenta en la *APK* y como se han solventado en la misma:
