@@ -8,7 +8,7 @@ Proyecto desarrollado para la asignatura Interfaces Inteligentes en la Universid
 ## **Cuestiones importantes para el uso.**
 Una vez iniciada la aplicación el usuario se encontrará en la escena inicial del juego. Esta escena le servirá para identificar los controles del juego:
 
-![Dibujo de un mando con las instrucctiones](./img/controles.png)
+![Dibujo de un mando con las instrucctiones](./img/Controles.png)
 
 Así mismo, y haciendo uso de la retícula, el usuario tiene dos opciones: *Jugar* o *Salir*. 
 
