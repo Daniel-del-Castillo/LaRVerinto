@@ -10,7 +10,11 @@ Una vez iniciada la aplicación el usuario se encontrará en la escena inicial d
 
 ![texto_alternativo](./img/controles.png)
 
-Así mismo, y haciendo uso de la retícula, el usuario tiene dos opciones: *Jugar* o *Salir*. Una vez accionado el botón de *Jugar*, el usuario se teletransporta a la escena principal de juego.
+Así mismo, y haciendo uso de la retícula, el usuario tiene dos opciones: *Jugar* o *Salir*. 
+
+Una vez accionado el botón de *Jugar*, el usuario se teletransporta a la escena principal de juego. En esta escena el usuario se encuentra en un laberinto autogenerado, se desplazará haciendo uno de los controles de un mando PS4. Cuando el usuario consiga llegar a la salida, colocandose debidamente, se teletrasportará hasta la escena final.
+
+En esta escena final se despliega una pequeño menú para que le usuario pueda volver a la escena inicial del juego y pueda probar en distintos laberintos.
 
 ## Hitos de programación
 ## Aspectos a destacar de la aplicación
