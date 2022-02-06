@@ -31,7 +31,9 @@ A continuación se muestra en la tabla los hitos de programación que se han seg
 
 ## **Aspectos a destacar de la aplicación.**
 
-El principal aspecto importante a destacar de la aplicación y que ha significa una gran parte del tiempo del desarrollo del proyecto es la implementación del movimiento del usuario mediante teletransporte. No solo fue necesario todo aquello que sería necesario para mover a cualquier personaje, sino que también fue necesario hacer cálculos para que el marcador del teletransporte se moviese de acuerdo a donde el usuario estaba mirando. Esto era complejo debido a que la cámara y el marcador de telentransporte no comparten su rotación ni su posición.
+Lo que define este proyecto es la generación procedural del laberinto, por lo tanto este es el aspecto más importante. Hacer que el laberinto sea distinto en cada partida es vital para que la jugabilidad no decaiga considerablemente tras la primera partida.
+
+Otro aspecto importante a destacar de la aplicación y que ha significa una gran parte del tiempo del desarrollo del proyecto es la implementación del movimiento del usuario mediante teletransporte. No solo fue necesario todo aquello que sería necesario para mover a cualquier personaje, sino que también fue necesario hacer cálculos para que el marcador del teletransporte se moviese de acuerdo a donde el usuario estaba mirando. Esto era complejo debido a que la cámara y el marcador de telentransporte no comparten su rotación ni su posición.
 
 Uno de los principales aspectos que destacar de la aplicación y que hace referencia a lo que se ha trabajado en la asignatura en interfaces multimodales, es el componente Brújula. Este objeto proporciona orientación al usuario indicándole la dirección Norte-Sur. Esto permite al usuario orientarse dentro del laberinto, ya que el Norte apunta siempre al Norte magnético en la realidad, lo que se traduce en apuntar consistenemente en la misma dirección dentro del mundo del juego.
 
